@@ -1,6 +1,6 @@
 # nogdb
 
-A fork of (Mirai's nogdb)[https://github.com/jgamblin/Mirai-Source-Code/blob/master/mirai/tools/nogdb.c] program that works for both ELF32 and ELF64 executables.
+A fork of [Mirai's nogdb](https://github.com/jgamblin/Mirai-Source-Code/blob/master/mirai/tools/nogdb.c) program that works for both ELF32 and ELF64 executables.
 
 ## Build
 
